@@ -8,13 +8,13 @@ Utilização de Interfaces<br>
 
 <h4>Requisitos Básicos: </h4>
 
-✔ Lógica de Programação <br>
-✔ Conhecimento básico de OO <br>
-✔ Conhecimento básico de .NET <br>
+Lógica de Programação <br>
+Conhecimento básico de OO <br>
+Conhecimento básico de .NET <br>
 
 <h4>CRUD  </h4>
 
-● Create / Criar <br>
-● Read / Ler <br>
-● Update / Atualizar <br>
-● Delete / Excluir <br>
+Create / Criar <br>
+Read / Ler <br>
+Update / Atualizar <br>
+Delete / Excluir <br>
